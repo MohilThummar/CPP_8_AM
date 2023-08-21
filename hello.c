@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello Skill");
+    printf("Hello Skill qode!");
     return 0;
 }
